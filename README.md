@@ -5,6 +5,7 @@ Overview
 This repository contains files for implementing the Behavioral Cloning Project for Udacity's Self Driving Car NanoDegree program.
 
 I used Nvidia developed PilotNet CNN model architecture and training datasets gathered from Udacity’s driving simulator to successfully train the car to autonomously drive around two provided tracks. 
+
 ---
 
 [//]: # (Image References)
