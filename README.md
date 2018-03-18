@@ -55,7 +55,7 @@ optional arguments:
                         Path to a trained model. Use the weights from this model
   --use_dropout         Use dropout layers in the training model?
 ```
-This runs the model with image augmentation generation, using all three cameras and **NOT** using dropout in the model.
+The default runs the model with image augmentation generation, using all three cameras and **NOT** using dropout in the model.
 
 ### Training Data
 
