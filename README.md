@@ -23,7 +23,7 @@ Files:
 * image_augmentation.py (File holding functions to augment images and calculate steering angles)
 * video.mp4 (A video recording of the vehicle driving autonomously around the track for at least one full lap)
 
-* [CarND Term1 Starter Kit](https://github.com/udacity/CarND-Term1-Starter-Kit)
+[CarND Term1 Starter Kit](https://github.com/udacity/CarND-Term1-Starter-Kit)
 
 The enviroment can be created with CarND Term1 Starter Kit. Click [here](https://github.com/udacity/CarND-Term1-Starter-Kit/blob/master/README.md) for the details.
 
