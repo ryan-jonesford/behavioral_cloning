@@ -117,6 +117,7 @@ The model created a workable control structure that enabled the simulated car to
 #### Summary Of PilotNet Model
 
 *PilotNet Architecture With Dropout layers added*
+
 **Layer (type)** | **Output Shape** | **Param #**
 --- | --- | ---
 cropping2d_1 (Cropping2D)  |  (None, 75, 270, 3)    |    0
